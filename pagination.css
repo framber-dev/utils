@@ -1,0 +1,5 @@
+/*!
+ * PaginationNumberBlogger - v1.0.0
+ * Copyright 2022 - SoraBlogginsTips
+ * License Mit
+*/#blog-pager-newer-link a,#blog-pager-older-link a,.showpage a,.showpageNum a,.showpagePoint{display:block;float:left;margin-right:6px;border:1px solid #010101;text-transform:uppercase;line-height:32px;font-weight:700;color:#010101}#blog-pager{clear:both;text-align:center;margin:0}#blog-pager-newer-link a,#blog-pager-older-link a{padding:0 13px}#blog-pager-newer-link a:hover,#blog-pager-older-link a:hover,.showpage a:hover,.showpageNum a:hover{background-color:#010101;color:#fff!important}.showpage a,.showpageNum a,.showpagePoint{padding:0 12px}.showpage a i,.showpageNum a i{transition:none;-webkit-transition:none;-moz-transition:none;-o-transition:none}.showpagePoint{background-color:#010101;color:#fff}.showpageOf{display:none!important}
